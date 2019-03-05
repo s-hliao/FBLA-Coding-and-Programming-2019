@@ -19,8 +19,9 @@ A listed interactive faq is also available on account homescreens right after lo
 All data is stored continuously in the JSON file, serializing after every change and deserializing at the beginning of the program.
 When finished with the program, return to Login and exit. All windows launched from the home page right after login may be closed by closing out, but to return to login there is a button.
 All accounts can view the interactive help page, and administrators can reset the entire system using the admin key.
+There is already some data serialized into the json file.
 
-The sign-in for the administrator account Henry Liao is:
+The sign-in for administrator account Henry Liao is:
 
 ID: 1019205
 Password: Prisoner24601
