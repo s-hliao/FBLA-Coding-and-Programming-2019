@@ -21,10 +21,12 @@ When finished with the program, return to Login and exit. All windows launched f
 All accounts can view the interactive help page, and administrators can reset the entire system using the admin key.
 
 The sign-in for the administrator account Henry Liao is:
+
 ID: 1019205
 Password: Prisoner24601
 
 The sign-in for student Vidyut Baskar is:
+
 ID: 10
 Password: Grinding
 
