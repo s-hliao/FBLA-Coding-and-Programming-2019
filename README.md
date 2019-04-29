@@ -12,7 +12,7 @@ Usage: At the login, there are three options: to create an account, reset the ad
 
 All of these actions are specified as buttons on the home page of students and admins (right after login), and they open dialog boxes to perform the action based on usee input.
 
-If return is specified for emails, then the program will sesrch for the student ID in accounts, whereas if checkout is specified, the program will search in the library system.
+If return is specified for emails, then the program will search for the student ID in accounts, whereas if checkout is specified, the program will search in the library system.
 
 Books, when returned, will gain a new accession number (the lowest possible one that has not been used yet) and can be changed by administrators. Multiple windows can be opened at once for the simultaneous usage, which is useful for seeing the accession numbers as an administrator and using them at the same time to send messages.
 A listed interactive faq is also available on account homescreens right after login.
@@ -30,6 +30,9 @@ The sign-in for student Vidyut Baskar is:
 
 ID: 10
 Password: Grinding
+
+The Admin Key is:
+353X
 
 PROJECT GUIDELINES:
 
